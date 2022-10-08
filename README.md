@@ -5,5 +5,5 @@
 * the .bak AdventureWorks file was added as a database
 * then I could access the database from Power BI by connecting to the server
 
-A demo dataset provided
+
 ![image](https://user-images.githubusercontent.com/65574434/194695578-3c8ad6f7-7b6c-4c70-beca-5221ec43cb77.png)
